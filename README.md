@@ -1,10 +1,10 @@
-# COMPANY NAME
+# VChart
 
 ![Team Logo](./logo.png)
 
 #### Team Slack Channel: #team\-\<your\-company\-name\-here\>
 
-COMPANY NAME is a company founded in the THEME industry. COMPANY NAME aims to VISION STATEMENT.
+VChart is a company founded in the healthcare industry. VChart aims to support Canadian nurses by reducing the pressures and challenges they face in their roles, enabling them to focus more on patient care and well-being.
 
 Table of Contents
 ---
