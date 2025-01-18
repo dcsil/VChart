@@ -1,6 +1,6 @@
-[COMPANY NAME Principles](./principles.md)
+[VChart Principles](./principles.md)
 
-People at COMPANY NAME
+People at VChart
 ---
 
 - [Devan Srinivasan, Business](./Devan_Srinivasan.md)
