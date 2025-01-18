@@ -7,9 +7,9 @@
 
 ## Links
 
-- [GitHub](#https://github.com/khushiagl)
-- [LinkedIn](#https://www.linkedin.com/in/khushi-agrawal-98816a231/)
-- [Resume](#https://drive.google.com/file/d/18FpLT4kfgGqaAFIVDBFbVl_BGnW9hXi4/view?usp=drive_link)
+- [GitHub](https://github.com/khushiagl)
+- [LinkedIn](https://www.linkedin.com/in/khushi-agrawal-98816a231/)
+- [Resume](https://drive.google.com/file/d/18FpLT4kfgGqaAFIVDBFbVl_BGnW9hXi4/view?usp=drive_link)
 
 ## About Khushi
 
