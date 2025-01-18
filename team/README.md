@@ -8,9 +8,9 @@ People at COMPANY NAME
 
 ### Team Leader
 
-[Jane Doe, Engineering](./jane_doe.md)
+[Khushi Agrawal, Business and Engineering](./Khushi_Agrawal.md)
 <!-- Describe who and why the team leader was selected --> 
-[Insert Name] was selected based on their strong organizational skills, ability to communicate effectively, and proven leadership qualities in past projects.
+Khushi was selected based on her strong organizational skills, ability to communicate effectively, and proven leadership qualities in past projects.
 
 #### Responsibilities
 <!-- What is their role for your team?	--> 
