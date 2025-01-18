@@ -1,8 +1,7 @@
 # Team Principles
 
 ## **Communication**
-- **Primary Platform**: Our team will communicate primarily through Discord, utilizing its various features to streamline collaboration.
-- **Channels**:  
+- **Primary Platform**: Our team will communicate primarily through Discord.
   - `#general`: For announcements, team-wide updates, and general communication.  
   - `#business`: For discussions and updates specific to CSC454 (business-side deliverables).  
   - `#technical`: For discussions and updates specific to CSC491 (technical-side deliverables).  
