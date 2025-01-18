@@ -4,7 +4,7 @@ People at VChart
 ---
 
 - [Devan Srinivasan, Business](./Devan_Srinivasan.md)
-- ...
+- [Eric Xue, Software Development](./Eric_Xue.md)
 
 ### Team Leader
 
