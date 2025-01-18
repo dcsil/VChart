@@ -1,6 +1,6 @@
 # Khushi Agrawal
 
-![Khushi Agrawal Profile](./khushi_agrawal.HEIC)
+![Khushi Agrawal Profile](./khushi_agrawal.jpeg)
 
 - Software Developer
 - khushi.agrawal@mail.utoronto.ca
