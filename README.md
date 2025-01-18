@@ -1,6 +1,6 @@
 # VChart
 
-![Team Logo](./logo.jpeg)
+![Team Logo](./logo.png)
 
 #### Team Slack Channel: #team\-vchart
 
