@@ -5,6 +5,7 @@ People at VChart
 
 - [Devan Srinivasan, Business](./Devan_Srinivasan.md)
 - [Eric Xue, Software Development](./Eric_Xue.md)
+- [Ruitao Lai, Machine Learning](./Ruitao_Lai.md)
 
 ### Team Leader
 
