@@ -1,6 +1,6 @@
 # Ruitao Lai
 
-![profile](./ruitao_lai.png)
+![profile](./Ruitao_Lai.png)
 
 - Machine Learning Researcher
 - r.lai@mail.utoronto.ca
