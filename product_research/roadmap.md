@@ -1,29 +1,41 @@
 # Roadmap
 
-This describes our plans...
-
-- Setup a roadmap for at least the duration of this course. You may go longer to indicate long term goals. The roadmap can include as much detail as you want with the following conditions:
-    - Must include your immediate next steps
-    - Must include plans to perform user research
-    - Must include low-fidelity plans for a launch date
-    - You fill in the gaps. Be careful not to go too detailed as we have limited knowledge still.
-
 ## Short Term
 
-**Duration:** Q3 2019
+**Duration:** Q1 2025
 
-We intend to ship X, Y, Z - list tracking issues that encompass all details.
+Goal: Build and deploy MVP with AI-powered charting, database setup, and backend services.
+
+Key Milestones
+
+- Infrastructure Setup: GitHub repo, MongoDB Atlas, AWS Lambda, Next.js API routes.
+- AI Integration: Assemble AI for speech-to-text, Cohere AI for chart generation.
+- Testing & Security: Unit testing, API validation, security measures (RBAC, encryption).
+- User Research & MVP Refinements: Gather early feedback from nurses & doctors.
+- MVP Completion (April 9): Deploy for internal testing and limited beta users.
 
 ## Medium Term
 
-**Duration:** Q4 2019
+**Duration:** Q3 2025
 
-We intend to... medium-level of detail plans.
+Goal: Expand MVP features, improve AI accuracy, conduct user testing, and start compliance research.
 
-We plan to launch a barebones alpha version in the medium term.
+Key Milestones
+
+- Improve AI Model Performance: Optimize transcription accuracy & structured charting.
+- Enhance Security & Compliance Research: Identify HIPAA/PHIPA certification needs, security upgrades.
+- Expand User Testing: Onboard additional beta users, refine workflows based on feedback.
+- Develop Web Dashboard: Doctor interface for reviewing/editing AI-generated charts.
 
 ## Long Term
 
-**Duration:** 2020
+**Duration:** 2026
 
-We intend to... high level plans
+Goal: Finalize compliance, integrate with existing hospital systems, secure funding, and prepare for full public launch.
+
+Key Milestones
+
+- Complete Compliance Implementation: Work with legal experts, complete security audits.
+- Integration with existing hospital systems: Develop FHIR-compliant API connections.
+- Funding & Business Expansion: Raise seed funding, form hospital partnerships.
+- Public Launch Prep (April 2026): Transition from beta to full market release.
