@@ -1,5 +1,9 @@
 # Roadmap
 
+As we move forward with developing our AI-powered EMR system, our strategic roadmap outlines key milestones across three phases: short-term (MVP development), medium-term (feature expansion and compliance research), and long-term (market readiness and full-scale deployment). Our primary goal is to build an intuitive, AI-driven solution that enhances efficiency for nurses and doctors while ensuring security and compliance.
+
+This roadmap details the critical steps required to achieve our vision, from setting up core infrastructure and AI-powered charting to integrating with existing hospital systems and securing funding for long-term growth. By following this structured plan, we aim to deliver a cutting-edge EMR solution that streamlines documentation, reduces administrative burden, and improves healthcare outcomes.
+
 ## Short Term
 
 **Duration:** Q1 2025
