@@ -2,7 +2,7 @@
 
 ![Team Logo](./logo.png)
 
-#### Team Slack Channel: #team\-vchart
+#### Team Slack Channel: #team\-vchart2
 
 VChart is a company founded in the healthcare industry. VChart aims to support Canadian nurses by reducing the pressures and challenges they face in their roles, enabling them to focus more on patient care and well-being.
 
