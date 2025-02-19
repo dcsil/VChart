@@ -1,43 +1,51 @@
 # Use Cases
 
-1. AI-Powered Auto-Save Voice Charting (Hands-Free Documentation)
+- MVP:
 
-- Nurses don’t have time to manually type notes or review transcriptions between patients. VChart allows them to record their observations via voice input, and the system automatically transcribes and charts the information in real time, without requiring manual review at that moment.
+  1. AI-Powered Auto-Save Voice Charting (Hands-Free Documentation)
 
-- Steps
+  - Nurses don’t have time to manually type notes or review transcriptions between patients. VChart allows them to record their observations via voice input, and the system automatically transcribes and charts the information in real time.
 
-  1. Nurse opens the web app on mobile between patients.
-  2. Selects a patient profile from the list.
-  3. Taps the voice recording button and speaks.
-  4. AI transcribes speech in real time and immediately saves the structured chart entry to the system.
-  5. The entry is marked as pending review for later edits by the nurse or a supervisor.
+  - Steps
 
-  ![alt text](<Use case 1.png>)
+    1. Nurse opens the web app on mobile between patients.
+    2. Selects a patient profile from the list.
+    3. Nurse initiates a new entry.
+    4. Taps the voice recording button and speaks.
+    5. AI transcribes speech in real time and immediately saves the structured chart entry to the system.
+    6. The entry is marked as pending review for later edits.
 
-2. Quick Chart Review and Editing on a Computer
+  2. Quick Chart Review and Editing on a Computer
 
-- Since voice-charted entries are auto-saved in real time, nurses must later review and finalize them. VChart allows nurses or supervisors to edit AI-generated charts in under 30 seconds from a desktop interface.
+  - Since voice-charted entries are auto-saved in real time, nurses must later review and finalize them. VChart allows nurses or supervisors to edit AI-generated charts in under 30 seconds from a desktop interface.
 
-- Steps
+  - Steps
 
-  1.  Nurse logs into the VChart web app.
-  2.  Navigates to the “Pending Review” chart entries.
-  3.  Selects a patient chart to review.
-  4.  Reads the AI-generated chart entry.
-  5.  Makes quick edits if necessary.
-  6.  Saves the finalized entry to the EMR system.
+    1.  Nurse logs into the VChart web app.
+    2.  Navigates to the “Pending Review” chart entries.
+    3.  Selects a patient chart to review.
+    4.  Reads the AI-generated chart entry.
+    5.  Makes quick edits if necessary.
+    6.  Exports to PDF/email
 
-  ![alt text](<Use case 2.png>)
+  3. Manage Patient List
 
-3. Shift Setup: Selecting Assigned Patients
+  - Nurses need to dynamically manage their patient list to reflect the patients they are currently attending to. This includes adding new patients and removing those who are no longer under their care.
 
-- At the beginning of their shift, nurses must set up their patient list for better workflow organization. VChart allows them to log in, select their assigned unit, and mark patients for their shift.
+  - Steps
 
-- Steps
-  1.  Nurse opens the app and signs in.
-  2.  Selects their assigned hospital unit.
-  3.  Reviews the list of admitted patients in that unit.
-  4.  Marks patients they will be tending to.
-  5.  Starts using VChart for documentation throughout the shift.
+    1.  Nurse logs into the VChart web app.
+    2.  Adds a new patient by filling in essential information such as name, room number, and any other relevant details.
+    3.  Identifies and removes patients from the list who are no longer under their care.
 
-<!-- At least 3, and no more than 6 use cases should be specified -->
+  4. HIPAA Compliance and Data Security
+
+  - VChart ensures the confidentiality, integrity, and availability of protected health information (PHI) by implementing robust security measures and adhering to HIPAA guidelines.
+
+- Post-MVP:
+
+  1. Integrate with existing EHRs
+
+  - VChart will integrate with EHRs to allow nurses to chart directly from the EHR.
+
+  <!-- At least 3, and no more than 6 use cases should be specified -->
