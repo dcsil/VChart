@@ -1,6 +1,6 @@
 # Use Cases
 
-## MVP:
+## MVP Use Cases:
 
 ### 1. AI-Powered Auto-Save Voice Charting (Hands-Free Documentation)
 
@@ -75,7 +75,7 @@ VChart ensures the confidentiality, integrity, and availability of protected hea
 
 ---
 
-## Post-MVP:
+## Post-MVP Use Cases:
 
 ### 1. Enhanced HIPAA Compliance and Security Measures
 
