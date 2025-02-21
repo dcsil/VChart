@@ -18,7 +18,7 @@ Our [prototype](https://www.figma.com/design/G6naIVKZHbgCryc2KHK6va/VChart?t=y8U
 
 ## Overview of People Interviewed
 - Michelle Ark (CSC491 Course Instructor)
-- Devan's GF (Nurse at XXXXXX)
+- Shaveena Jeyaraj (Nurse at North York General Hospital)
 
 ## Summarized Notes
 ### Michelle Ark
@@ -26,7 +26,7 @@ Our [prototype](https://www.figma.com/design/G6naIVKZHbgCryc2KHK6va/VChart?t=y8U
 - Suggests removing the logout button from every screen to discourage app exits.
 - Recommends adding account settings/preferences for user customization.
 
-### Devan's GF
+### Shaveena Jeyaraj
 - Notes that the login screen shouldn't need a "forgot password" option, as accounts are typically handled by IT.
 - Suggests that adding a patient should be an admin task and shouldn't be done by nurses.
 - Currently only name, room number, and diagnosis are available for identification. Recommends using name, age, and date of birth for identification instead.
@@ -41,7 +41,7 @@ Michelle mentioned she would like to save the voice-recorded entry manually, oth
 
 Also, logout button shouldn’t be on every screen, making her wanting to quit the app, which is not desirable. There's no way to change account settings, maybe add account settings/preferences?
 
-### Devan's GF
+### Shaveena Jeyaraj
 Login Screen:
 - Normally there is no forgot password option, dealt with by IT (they set it all up and deal with it)
 
