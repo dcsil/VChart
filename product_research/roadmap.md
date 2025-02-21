@@ -36,7 +36,7 @@ Given that as of February 20, we have completed:
   - Chart entry storage (voice-to-text transcriptions)
   
 - Start Speech-to-Text Integration (Basic Flow)
-  - Set up Whisper AI / Google STT API
+  - Set up Assembly AI
   - Store transcribed notes in MongoDB
 
 ### March 1 - March 10 (Week 8-9)
