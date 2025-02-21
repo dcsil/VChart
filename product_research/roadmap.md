@@ -56,8 +56,7 @@ Given that as of February 20, we have completed:
   - Encryption for stored transcriptions
     
 ### March 11 - March 20 (Week 10-11)
--  AI Charting Enhancements
-  - Add auto-saving & timestamping for every note
+- Add auto-saving & timestamping for every note
 
 - Export Functionality (PDF/Email)
   - Nurses can finalize charts & export them
@@ -67,7 +66,7 @@ Given that as of February 20, we have completed:
   - Ensure HIPAA-compliant encryption (end-to-end)
 
  - Early Testing with Internal Users
-  - Get feedback from nurses/doctors on workflow usability
+  - Get feedback from nurses on workflow usability
   - Fix critical UX bugs
     
 
