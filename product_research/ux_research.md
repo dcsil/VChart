@@ -25,6 +25,7 @@ Our [prototype](https://www.figma.com/design/G6naIVKZHbgCryc2KHK6va/VChart?t=y8U
 - Prefers a manual save option for voice-recorded entries to ensure they are saved.
 - Suggests removing the logout button from every screen to discourage app exits.
 - Recommends adding account settings/preferences for user customization.
+- Recommends adding a side bar/menu on home page for future iterations.
 
 ### Shaveena Jeyaraj
 - Notes that the login screen shouldn't need a "forgot password" option, as accounts are typically handled by IT.
@@ -41,7 +42,11 @@ Michelle mentioned she would like to save the voice-recorded entry manually, oth
 
 Also, logout button shouldn’t be on every screen, making her wanting to quit the app, which is not desirable. There's no way to change account settings, maybe add account settings/preferences?
 
+"App is very direct – goes to patient list immediately after login. If additional features are added later, consider a menu/sidebar."
+
 ### Shaveena Jeyaraj
+"Flow of the app is good" but some potential suggestions:
+
 Login Screen:
 - Normally there is no forgot password option, dealt with by IT (they set it all up and deal with it)
 
