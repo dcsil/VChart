@@ -31,9 +31,9 @@ Our [prototype](https://www.figma.com/design/G6naIVKZHbgCryc2KHK6va/VChart?t=y8U
 - Suggests that adding a patient should be an admin task and shouldn't be done by nurses.
 - Currently only name, room number, and diagnosis are available for identification. Recommends using name, age, and date of birth for identification instead.
 - The diagnosis of a patient isn't prone to change, so it's not necessary to call it an "initial diagnosis", just "diagnosis" would suffice.
-- Suggests changing "history" to "log" in patient information.
+- Suggests changing "history" to "log" in patient information to be consistent with existing EMR systems.
 - Recommends taking a look at Cerner & Epic and copying the fields and information they have in their software.
-- The UX from voice to chart was unintuitive; suggests auto-populating and highlighting fields after voice input, with auto-save for review and submission via phone or computer.
+- The current way to review chart is slow and would be better if it was more implicit. Her suggestion is to highlight what has been populated and save it in the background and have a little check mark / submit button to lock it in.
 
 ## Appendix (Raw Notes)
 ### Michelle Ark
