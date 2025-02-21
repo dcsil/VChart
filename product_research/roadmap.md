@@ -52,7 +52,7 @@ Given that as of February 20, we have completed:
   - Nurses can add/remove patients
   - Ensure data updates in real-time
 
- - Begin Security Setup
+- Begin Security Setup
   - Encryption for stored transcriptions
     
 ### March 11 - March 20 (Week 10-11)
