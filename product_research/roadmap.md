@@ -22,8 +22,8 @@ Given that as of February 20, we have completed:
 
 - GitHub Setup
 - Hello World App in Chosen Framework
-- UX & User Research (gathered insights from nurses/doctors)
--  UX Prototype Design
+- UX & User Research (gathered insights from nurses and instructor)
+- UX Prototype Design
 
 ### Feb 20 - Feb 29 (Week 6-7)
 - Test Infrastructure Setup
