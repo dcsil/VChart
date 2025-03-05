@@ -12,7 +12,7 @@ AWS, Google Cloud, Microsoft Azure, Vercel
 We will use AWS to deploy our app. 
 
 ## Status
-Accepted.
+Rejected.
 
 ## Consequences
 AWS provides a scalable and HIPAA-compliant infrastructure for hosting the Next.js backend, AI processing APIs, and MongoDB database, ensuring seamless data security and compliance. Vercel was chosen for frontend deployment due to its performance optimizations for Next.js, allowing server-side rendering (SSR) and static site generation (SSG), which improve frontend speed and SEO.
