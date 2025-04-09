@@ -4,7 +4,7 @@ This is the WCAG accessibility checklist for our app. The table below outlines h
 
 | Guideline | Summary | Description of how you accommodated this |
 |-----------|---------|----------------------------------------|
-| 1.1.1 – Non-text Content | Provide text alternatives for non-text content | All images either have an alt attribute, or are purely decorative and already has a text label next to them. |
+| 1.1.1 – Non-text Content | Provide text alternatives for non-text content | All images either have an alt text attribute, or are purely decorative and already has a text label next to them. |
 | 1.2.1 – Audio-only and Video-only (Pre-recorded) | Provide an alternative to video-only and audio-only content | We don't use audio or video content on our app. |
 | 1.2.2 – Captions (Pre-recorded) | Provide captions for videos with audio | We don't use audio or video content on our app. |
 | 1.2.3 – Audio Description or Media Alternative (Pre-recorded) | Video with audio has a second alternative | We don't use audio or video content on our app. |
